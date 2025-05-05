@@ -1,1 +1,3 @@
-## Hello, Git!
+## welcome to my server!
+
+- Yoo wassup 
